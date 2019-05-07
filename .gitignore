@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+.env
+.DS_Store
+.ipynb_checkpoints
+=======
+*.swp
+*.ipynb_checkpoints
+*.DS_Store
+*.env
+>>>>>>> be952eed871b17e5bd4153ac7f4b148af0f54b4d
